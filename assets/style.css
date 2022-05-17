@@ -176,3 +176,18 @@ body {
 	opacity: 1;
 	transition: opacity 0.3s;
   }
+
+
+#c {
+    color: #494949;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.25;
+    display: block;
+    font-family: var(--font);
+    max-width: 450px;
+    /* width: 100%; */
+    margin-top: 5px;
+    text-align: center;
+    text-decoration: none;
+}
