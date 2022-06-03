@@ -37,3 +37,8 @@
     background-color: #241f21;
     border: solid #241f21 2px;
 }
+
+.telega:hover {
+    background-color: #23aaea;
+    border: solid #23aaea 2px;
+}
