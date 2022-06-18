@@ -1,2 +1,2 @@
 # visitka
-визитка с моими ссылками, стоит на [gappjust.tk](gappjust.tk)
+визитка с моими ссылками, стоит на [gappjust.ml](gappjust.ml)
