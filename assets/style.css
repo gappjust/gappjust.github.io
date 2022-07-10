@@ -64,7 +64,7 @@ body {
     max-width: 500px;
     width: auto;
     display: block;
-    margin: 27px auto;
+    margin: 15px auto;
 }
 
 .links {
@@ -191,4 +191,37 @@ body {
     margin-top: 5px;
     text-align: center;
     text-decoration: none;
+}
+
+.menu {
+    width: auto;
+    text-align: center;
+    margin: 10px auto;
+  }
+
+.menubutt {
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.0 );
+    /* margin-bottom: 10px; */
+    padding: 3px;
+    transition: all .25s cubic-bezier(.08, .59, .29, .99);
+    /* border: solid #272727 2px;    */
+    color: #ffca5f;
+    font-family: var(--font);
+    text-align: center;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.playlist {
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.0 );
+    margin-bottom: 10px;
+    padding: 0px;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: bold;
+    transition: all .25s cubic-bezier(.08, .59, .29, .99);
+    border: solid #272727 2px;
 }

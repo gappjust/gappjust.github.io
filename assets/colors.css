@@ -1,3 +1,13 @@
+.standart {
+    background-color: #272727;
+    border: solid #272727 1px; 
+}
+
+.standart:hover {
+    background-color: #ffb100;
+    /* border: solid #ffb100 2px;  */
+}
+
 .insta:hover {
     background-color: #E1306C;
     border: solid #E1306C 2px;
@@ -41,4 +51,22 @@
 .telega:hover {
     background-color: #23aaea;
     border: solid #23aaea 2px;
+}
+
+.blogs:hover {
+    background-color: #beaaff;
+    /* border: solid #beaaff 2px;  */
+    color: #000000
+}
+
+.streams:hover {
+    background-color: #fab4ff;
+    /* border: solid #fab4ff 2px;  */
+    color: #000000
+}
+
+.music:hover {
+    background-color: #befae1;
+    /* border: solid #befae1 2px;  */
+    color: #000000
 }
